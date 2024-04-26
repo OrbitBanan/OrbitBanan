@@ -1,7 +1,25 @@
-# Hello, I'm a front-end developer!
+###
 
-### My Languages & Frameworks
-![html](https://i.imgur.com/IWchoRe.png) ![css](https://i.imgur.com/BZhD1TA.png) ![js](https://i.imgur.com/gfV68An.png) ![react](https://i.imgur.com/PrO0biF.png) ![next.js](https://i.imgur.com/dxhYBul.png)
+<h1 align="center">Привет👋 Меня зовут Orbit!</h1>
 
-### My Tools & Software
-![vscode](https://i.imgur.com/cL7bDiY.png) ![figma](https://i.imgur.com/lacJwTa.png) ![netlify](https://i.imgur.com/jOEmLnW.png) ![git](https://i.imgur.com/Ev6kG5o.png)
+###
+
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+### <p align="left">Я начинающий Frontend разработчик. Изучаю фронт-енд разработку уже год. Нахожусь на курсе от Яндекс Практикума уже 6 месяцев</p>
+
+### <br>- 🔭 Много пишу шедевро-код <br>- ⚡ Я обожаю писать шедевро-код <br>- 👩‍💻 Почти закончил курс от Яндекс Практикума "JavaScript от Яндекса: с нуля до веб-разработчика"
+
+###
+.
+###
+
+<h3 align="left">🛠 Мой стек технологий:</h3>
+
+### HTML5 | CSS3 | JAVASCRIPT | REACT.JS | NEXT.JS | EXPRESS | NODE.JS | EXPRESS
+
+<h3 align="left">🛠 Мои инструменты</h3>
+
+### VSCODE | FIGMA | NETLIFY | GIT BASH | GITHUB DESKTOP
+
+###
