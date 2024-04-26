@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">🛠 Мой стек технологий:</h3>
+<h3 align="left">🛠 Мой стек технологий</h3>
 
 ### HTML5 | CSS3 | JAVASCRIPT | REACT JS | NEXT JS | EXPRESS | NODE JS | EXPRESS
 
