@@ -1,14 +1,8 @@
-###
+<h1 align="center">Hello👋 My name is Orbit!</h1>
 
-<h1 align="center">Привет👋 Меня зовут Orbit!</h1>
+<h3 align="left">🌎  About Me</h3>
 
-###
-
-<h3 align="left">👩‍💻  Обо мне</h3>
-
-### <p align="left">Я начинающий Frontend разработчик. Изучаю фронт-енд разработку уже год. Нахожусь на курсе от Яндекс Практикума уже 6 месяцев</p>
-
-### <br>- 🔭 Много пишу шедевро-код <br>- ⚡ Я обожаю писать шедевро-код <br>- 👩‍💻 Почти закончил курс от Яндекс Практикума "JavaScript от Яндекса: с нуля до веб-разработчика"
+### - 👩‍💻 I'm a beginner frontend developer <br>- 🔭 I'm learning a lot of different technologies for the frontend. <br>- ⚡ I love to code a lot and for a long time. <br>- 👩‍💻 Completed the course from YandexPracticum "JavaScript from Yandex: from zero to web developer"
 
 ###
 
@@ -18,12 +12,10 @@
 
 ###
 
-<h3 align="left">🛠 Мой стек технологий</h3>
+<h3 align="left">🛠 My Technology Stack 🛠</h3>
 
-### HTML5 | CSS3 | JAVASCRIPT | REACT JS | NEXT JS | EXPRESS | NODE JS | MONGODB
+### HTML5 | CSS3 | JAVASCRIPT | REACT JS | NEXT JS | EXPRESS JS | NODE JS | MONGODB
 
-<h3 align="left">🛠 Мои инструменты</h3>
+<h3 align="left">🛠 My Tools 🛠</h3>
 
-### VSCODE | FIGMA | NETLIFY | GIT BASH | GITHUB DESKTOP
-
-###
+### VSCODE | FIGMA | NETLIFY | GIT BASH | GITHUB DESKTOP | NGINX | WINDOWS TERMINAL
