@@ -14,7 +14,7 @@
 
 <h3 align="left">🛠 My Technology Stack 🛠</h3>
 
-### HTML5 | CSS3 | JAVASCRIPT | REACT JS | NEXT JS | EXPRESS JS | NODE JS | MONGODB
+### HTML5 | CSS3 | JAVASCRIPT | NODE JS | M.E.R.N
 
 <h3 align="left">🛠 My Tools 🛠</h3>
 
