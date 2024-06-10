@@ -2,7 +2,7 @@
 
 <h3 align="left">🌎  About Me</h3>
 
-### - 👩‍💻 I'm a beginner frontend developer <br>- 🔭 I'm learning a lot of different technologies for the frontend. <br>- ⚡ I love to code a lot and for a long time. <br>- 👩‍💻 Completed the course from YandexPracticum "JavaScript from Yandex: from zero to web developer"
+### - ⚡ I'm a beginner frontend developer <br>- 👩‍💻 Completed the course from YandexPracticum "JavaScript from Yandex: from zero to web developer"
 
 ###
 
