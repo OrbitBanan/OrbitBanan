@@ -14,7 +14,7 @@
 
 <h3 align="left">🛠 My Technology Stack 🛠</h3>
 
-### HTML | CSS | JAVASCRIPT | NODE JS | NEXT JS | M.E.R.N
+### HTML | CSS | JAVASCRIPT | TYPESCRIPT | NODE JS | NEXT JS | M.E.R.N
 
 <h3 align="left">🛠 My Tools 🛠</h3>
 
