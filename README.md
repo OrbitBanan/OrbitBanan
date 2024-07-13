@@ -14,8 +14,16 @@
 
 <h3 align="left">🛠 My Technology Stack 🛠</h3>
 
-### HTML | CSS | JAVASCRIPT | TYPESCRIPT | NODE JS | NEXT JS | M.E.R.N
+### <span>― HTML</span>
+### <span>― CSS /// BOOTSTRAP</span>
+### <span>― JAVASCRIPT /// TYPESCRIPT</span>
+### <span>― REACT /// NEXT.JS</span>
+### <span>― NODE.JS /// EXPRESS.JS</span>
 
 <h3 align="left">🛠 My Tools 🛠</h3>
 
-### VSCODE | FIGMA | NETLIFY | GIT BASH | GITHUB DESKTOP | NGINX | WINDOWS TERMINAL
+### <span>― VSCODE</span>
+### <span>― GIT /// GITHUB</span>
+### <span>― NGINX</span>
+### <span>― MONGODB</span>
+### <span>― CHAT GPT</span>
