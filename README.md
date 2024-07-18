@@ -17,8 +17,8 @@
 ### <span>― HTML</span>
 ### <span>― CSS /// BOOTSTRAP</span>
 ### <span>― JAVASCRIPT /// TYPESCRIPT</span>
-### <span>― REACT /// NEXT.JS</span>
-### <span>― NODE.JS /// EXPRESS.JS</span>
+### <span>― REACT.JS /// VUE.JS</span>
+### <span>― NODE.JS /// EXPRESS.JS /// NEXT.JS</span>
 
 <h3 align="left">🛠 My Tools 🛠</h3>
 
