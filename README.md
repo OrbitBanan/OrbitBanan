@@ -15,7 +15,7 @@
 <h3 align="left">🛠 My Technology Stack 🛠</h3>
 
 ### <span>― HTML</span>
-### <span>― CSS /// BOOTSTRAP</span>
+### <span>― CSS /// REACT BOOTSTRAP</span>
 ### <span>― JAVASCRIPT /// TYPESCRIPT</span>
 ### <span>― REACT.JS /// VUE.JS</span>
 ### <span>― NODE.JS /// EXPRESS.JS /// NEXT.JS</span>
