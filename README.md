@@ -26,4 +26,3 @@
 ### <span>― GIT /// GITHUB</span>
 ### <span>― NGINX</span>
 ### <span>― MONGODB</span>
-### <span>― CHAT GPT</span>
