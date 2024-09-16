@@ -1,9 +1,5 @@
 <h1 align="center">Hello👋 My name is Orbit!</h1>
 
-<h3 align="left">🌎  About Me</h3>
-
-### - ⚡ I'm a beginner frontend developer <br>- 👩‍💻 Completed the course from YandexPracticum "JavaScript from Yandex: from zero to web developer"
-
 ###
 
 <p align="center">
@@ -26,3 +22,8 @@
 ### <span>― GIT /// GITHUB</span>
 ### <span>― NGINX</span>
 ### <span>― MONGODB</span>
+
+<h3 align="left">Contact</h3>
+
+### ― <a href="https://t.me/OrbitBanan">Telegram</a>
+### ― <a href="https://t.me/Orbit_adapter">Blog</a>
