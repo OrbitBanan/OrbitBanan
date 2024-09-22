@@ -11,16 +11,14 @@
 <h3 align="left">🛠 My Technology Stack 🛠</h3>
 
 ### <span>― HTML</span>
-### <span>― CSS /// REACT BOOTSTRAP</span>
-### <span>― JAVASCRIPT /// TYPESCRIPT</span>
-### <span>― REACT.JS /// VUE.JS</span>
-### <span>― NODE.JS /// EXPRESS.JS /// NEXT.JS</span>
+### <span>― CSS</span>
+### <span>― JAVASCRIPT</span>
+### <span>― REACT.JS</span>
 
 <h3 align="left">🛠 My Tools 🛠</h3>
 
 ### <span>― VSCODE</span>
 ### <span>― GIT /// GITHUB</span>
-### <span>― NGINX</span>
 ### <span>― MONGODB</span>
 
 <h3 align="left">Contact</h3>
