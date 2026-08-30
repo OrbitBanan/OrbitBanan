@@ -15,12 +15,6 @@
 ### <span>― JAVASCRIPT</span>
 ### <span>― REACT.JS</span>
 
-<h3 align="left">🛠 My Tools 🛠</h3>
-
-### <span>― VSCODE</span>
-### <span>― GIT /// GITHUB</span>
-### <span>― MONGODB</span>
-
 <h3 align="left">Contact</h3>
 
 ### ― <a href="https://t.me/OrbitBanan">Telegram</a>
