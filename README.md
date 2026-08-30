@@ -24,4 +24,3 @@
 <h3 align="left">Contact</h3>
 
 ### ― <a href="https://t.me/OrbitBanan">Telegram</a>
-### ― <a href="https://t.me/Orbit_adapter">Blog</a>
